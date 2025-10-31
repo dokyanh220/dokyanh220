@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kỳ Anh!</h1>
+<h1 align="center">👋 Hey, I'm Do Ky Anh!</h1>
 
 <p align="center">
   <em>Digital Craftsman • Fullstack Developer • Student @ Aptech Việt Nam</em>
