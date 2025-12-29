@@ -21,9 +21,8 @@ I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** —
 ### 🌐 Connect With Me
 
 - 🖥️ [Portfolio](https://anhdo.io.vn)  
-- 💌 [Email Me](mailto:kyanh.dev@gmail.com)  
-- 🧭 [LinkedIn](https://linkedin.com/in/yourname)  
-- 💬 [Discord](https://discord.gg/yourlink)  
+- 💌 [Email Me](mailto:kyanhdubo2107@gmail.com)  
+- 🧭 [LinkedIn](https://linkedin.com/in/dokyanh220)  
 
 ---
 
