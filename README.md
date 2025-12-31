@@ -27,14 +27,14 @@ I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** —
 ---
 
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" width="500"/>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" width="500" style="poin-events:none;"/>
 </p>
 
 ---
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,vscode,git,github" style="poin-events:none;"/>
 </p>
 
 ---
@@ -43,5 +43,5 @@ I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** —
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dokkyanh&color=purple&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dokkyanh&color=purple&style=for-the-badge" alt="Profile views" style="poin-events:none;"/>
 </p>
