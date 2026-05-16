@@ -12,7 +12,7 @@ I'm a passionate **Fullstack Developer** and **tech explorer** who loves turning
 I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** — building modern web experiences with clean UI & solid backend logic.
 
 - 🧠 **Student of Life:** Always learning, always curious.  
-- 🛠 **Tech Stack:** Next.js · Node.js · MongoDB · TailwindCSS · PayloadCMS  
+- 🛠 **Tech Stack:** Next.js · Node.js · MongoDB · TailwindCSS · PayloadCMS
 - 🧩 **Currently Learning:** Authentication flows, CMS integrations, and serverless APIs.  
 - ✨ **Fun Fact:** I name my projects cooler than I name my plants 🌱  
 
@@ -34,7 +34,7 @@ I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** —
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,vscode,git,github,python" style="poin-events:none;"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,vscode,git,github,python,flask" style="poin-events:none;"/>
 </p>
 
 ---
