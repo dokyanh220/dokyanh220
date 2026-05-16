@@ -34,7 +34,7 @@ I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** —
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,github,python,flask" style="poin-events:none;"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,github,flask,supabase,wordpress" style="poin-events:none;"/>
 </p>
 
 ---
