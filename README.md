@@ -13,7 +13,7 @@ Most of my experience comes from self-learning, experimenting, and shipping proj
 
 Currently, I’m focusing on improving my skills in fullstack development, system design, and AI engineering.
 
-- 🛠 Tech Stack: Next.js · React · Node.js · TypeScript · Python · MongoDB · MySQL
+- 🛠 Tech Stack: React · Node · TypeScript · Springboot · Flask · MongoDB · MySQL
 - 🚀 Experience With: VPS deployment, Docker, REST APIs, CI/CD, PayloadCMS, WordPress, and SA-MP server development
 - 📚 Currently Learning: AI engineering, scalable backend architecture, and improving English for technical communication
 - 🎯 Goal: Become a strong fullstack/AI engineer and work on products used by real users  
