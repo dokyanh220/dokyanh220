@@ -43,5 +43,5 @@ I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** —
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dokkyanh&color=purple&style=for-the-badge" alt="Profile views" style="poin-events:none;"/>
+  <img src=<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dokyanh220](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=A020F0&width=435&lines=Fullstack+Developer;AI+Engineer+Learner;Building+Systems+and+Products" /> style="poin-events:none;"/>
 </p>
