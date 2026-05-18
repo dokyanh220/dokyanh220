@@ -8,13 +8,15 @@
 
 ### 💫 About Me
 
-I'm a passionate **Fullstack Developer** and **tech explorer** who loves turning ideas into beautiful, functional code.  
-I’m currently diving deeper into **Next.js**, **tRPC**, and **PayloadCMS** — building modern web experiences with clean UI & solid backend logic.
+I'm a software engineering student who enjoys building real-world projects and learning by doing.
+Most of my experience comes from self-learning, experimenting, and shipping projects across web development, backend systems, and game servers.
 
-- 🧠 **Student of Life:** Always learning, always curious.  
-- 🛠 **Tech Stack:** Next.js · Node.js · MongoDB · TailwindCSS · PayloadCMS
-- 🧩 **Currently Learning:** Authentication flows, CMS integrations, and serverless APIs.  
-- ✨ **Fun Fact:** I name my projects cooler than I name my plants 🌱  
+Currently, I’m focusing on improving my skills in fullstack development, system design, and AI engineering.
+
+- 🛠 Tech Stack: Next.js · React · Node.js · TypeScript · Python · MongoDB · MySQL
+- 🚀 Experience With: VPS deployment, Docker, REST APIs, CI/CD, PayloadCMS, WordPress, and SA-MP server development
+- 📚 Currently Learning: AI engineering, scalable backend architecture, and improving English for technical communication
+- 🎯 Goal: Become a strong fullstack/AI engineer and work on products used by real users  
 
 ---
 
